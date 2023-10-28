@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "vite"
+    "start": "vite",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
